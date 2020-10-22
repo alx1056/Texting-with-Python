@@ -1,4 +1,4 @@
-# Twilio_App
+# Twilio Texting
 This is a free beta-snippet of the paid twillio API that allows you to automate SMS messages, Emails nad Voicemails with many different users
 
 I am using this for educatonal purposes only
